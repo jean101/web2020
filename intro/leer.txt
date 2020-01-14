@@ -1,0 +1,5 @@
+Las acciones basicas en git son las siguientes:
+
+commit: Nos permite comentar los cambios que hemos hecho.
+Push: sube los cambios a nuestro repositorio.
+Pull:Nos permite descargar los cambiosen el repositorio.
