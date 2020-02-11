@@ -1,30 +1,76 @@
-body{
-    background-color: lightgray;
-}
-h1{
-    color:blue;
-    font-size: xx-large;
-    text-align: center;
+#titulo {
+    color: cadetblue;
 }
 
-label{
-    color: darkblue;
+p strong {
+    color: red;
 }
 
-input{
-    font-size: medium;
-    font-style: normal;
-   
+span.destacado {
+    color: orange;
 }
 
-div {
-    background-color: lightgrey;
-    width: 300px;
-    border: 15px solid black;
-    padding: 50px;
-    margin: 20px;
-p.dotted {
-    outline-style: dotted;
+#subtitulo {
+    color: blue;
 }
 
+a {
+    color: red;
+}
+
+a em {
+    color: blue;
+}
+
+span.especial {
+    color: purple;
+}
+
+caption {
+    color: blue;
+}
+
+.especial {
+    color: orange;
+}
+
+td {
+    color: green;
+}
+
+td strong {
+    color: orange;
+}
+
+th {
+    color: red;
+}
+
+body {
+    margin-left: 3cm;
+    margin-right: 3cm;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+#adicional {
+    color: olive;
+}
+
+span#especial {
+    color: purple;
+}
+
+p a {
+    color: green;
+}
 
