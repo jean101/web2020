@@ -1,0 +1,35 @@
+
+    
+img{
+    background-color:white;
+}
+.container{
+    color: black;
+}
+body{
+    background-image: url(../../instagram/images/pizza.jpg);
+    background: cover;
+    background-size: 100%;
+    background-color: black;
+
+}
+
+)
+h1{
+    color:red;
+    text-align: center;
+}
+.jean{
+    color: white;
+    text-align: left;
+}
+header{
+  background-repeat: no-repeat;
+  
+  background-image:  url(https://image.freepik.com/foto-gratis/pizza-salchichones-sabrosa-fondo-concreto-negro_79782-102.jpg);
+}
+footer{
+ 
+}
+
+
