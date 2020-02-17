@@ -12,10 +12,12 @@ margin: 2;
     color: white;
     text-align: center;
 }
-.raquel{
-    color: black;
+.raq{
+    background-color: rgba(5, 5, 5, 0.438);
+    background-repeat: no-repeat;
+    color: white;
     text-align: center;
-    text-shadow:blue;
+    
 }
 .web{
     text-align: left;
@@ -32,7 +34,7 @@ color: white
 
 
 .papotico{
-    background-color: black;
+    background-color: white;
 }
 
 .jpg{
@@ -42,6 +44,7 @@ color: white
 
 .lpg{
     text-align: center;
+    color:black;
 }
 .mana{
     background: 100;
@@ -50,14 +53,34 @@ color: white
  h1.texto{
     text-align: center;
 }
-.mara{
-    border-style: double;
-    background-color: red;
-}
 .maria{
     background: url(https://youtu.be/vnUuXFwf48c);
 }
 .regi{
     background-image: url(../instagram/images/fondo.jpg));
-    background-size: cover;
+    background-size: cover; 
+}
+.texto{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color:grey;
+}
+.rob{
+    background: 100px;
+    background-size: 100px;
+
+}
+.jes{
+    color: white;
+}
+.mara{
+    color: white;
+}
+.tapa{
+    color: white;
+}
+.text2{
+    text-align: center;
 }

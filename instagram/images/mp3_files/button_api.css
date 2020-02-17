@@ -1,0 +1,22 @@
+html,body{height:100%;padding:0;margin:0;overflow:hidden;}
+body{font-family:tahoma,sans-serif;font-size:28px;}
+
+@-webkit-keyframes btnanime{
+	0%{opacity:0;width:0}
+	25%{opacity:.2}
+	50%{opacity:0;width:95%}
+	to{opacity:0;width:0}
+}
+
+button{font-size:.9em;border-radius:0;border:0;font-family:tahoma,sans-serif;height:100%;width:100%;padding:0;margin:0;cursor:pointer;}
+#downloadButton{color:white;margin:auto;text-shadow:1px 1px 2px rgba(0,0,0,.5);background:#000;position:relative;}
+#downloadButton:after{content:"";opacity:0;position:absolute;top:0;right:0;bottom:0;left:0;background:#fff;border-radius:3px;-webkit-animation:btnanime 4s ease-out infinite;animation:btnanime 4s ease-out infinite;-webkit-animation-delay:2s;animation-delay:2s}
+#downloadButton.st1{background: rgb(0,167,16);background: linear-gradient(90deg, rgba(0,167,16,1) 0%, rgba(0,151,255,1) 100%);}
+#downloadButton.st2{background: rgb(255,119,0);background: linear-gradient(90deg, rgba(255,119,0,1) 0%, rgba(255,0,121,1) 100%);}
+#downloadButton.st3{background: rgb(0,149,214);background: linear-gradient(90deg, rgba(0,149,214,1) 0%, rgba(93,31,180,1) 100%);}
+.buttonTitle{font-size:.45em;margin-top:4px;}
+#container{height:100%;text-align:center;margin:auto;padding:0;}
+#downloadButton:hover{filter:brightness(95%);-webkit-transition-duration:.2s;-webkit-transition-delay:.15s;transition-duration:.2s;transition-delay:.15s;}
+.disableButton{pointer-events:none;}
+@media(max-height:150px) and (max-width:400px){	body{font-size:18px; }
+@media(max-height:50px) and (max-width:200px){ body{font-size:14px; }
