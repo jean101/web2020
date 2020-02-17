@@ -33,6 +33,7 @@ color: white
 
 .papotico{
     background-color: black;
+}
 
 .jpg{
     color: blue;
@@ -55,4 +56,8 @@ color: white
 }
 .maria{
     background: url(https://youtu.be/vnUuXFwf48c);
+}
+.regi{
+    background-image: url(../instagram/images/fondo.jpg));
+    background-size: cover;
 }
