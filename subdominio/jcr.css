@@ -13,8 +13,7 @@ margin: 2;
     text-align: center;
 }
 .raq{
-    background-color: rgba(12, 12, 12, 0.438);
-    background-repeat: no-repeat;
+    background-color: rgba(151, 146, 146, 0.438);
     color: white;
     text-align: center;
     
@@ -27,6 +26,8 @@ color: white
 }
 .jose{
     background-color: rgb(88, 85, 85);
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .rodr{
     list-style-image: url(https://thepizzahouse.com.do/wp-content/uploads/2019/03/SlideOfertas4.jpg);
@@ -101,16 +102,27 @@ body{
 .pedro{
     background-color: white;
     color: white;
+    margin-left: 3;
+    margin-right: 3;
 }
 .mous{
+    margin-left: 3;
+    margin-right: 3;
+ margin: auto;
     background-color: grey;
     color: white;
+
 }
 .mous1{
     background-color: grey;
     color: white;
+    margin-left: 4;
+    margin-right: 3;
+    margin: auto;
 }
 .rod{
+    margin-top: 15px;
+    margin-left: 10px;
     background-color: black;
 }
 .per{
@@ -118,4 +130,57 @@ body{
 }
 .ran{
     background-color: black;
+}
+.open{
+    margin-top: 3;
+    margin-bottom: 3;
+    margin-left: 3;
+    margin-right: 3;
+}
+.wdf{
+ margin-top: 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+ div.rwj{
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.hf{
+    background-color: black;
+}
+.dsa{
+  table-layout: fixed;
+}
+.table{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: medium;
+}
+.ijl{
+    margin-top: 10px;
+    margin-bottom: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.yh{
+background-color: white;
+}
+.bn{
+    background-color: white;
+}
+.jd{
+    text-align: center;
+    background-color: black;
+    color: black;
+}
+.roe{
+    background-color: grey;
+   backface-visibility: visible;
+   margin-left: 75px;
+   margin-bottom: 75px;
+   margin-right: 75px;
 }
