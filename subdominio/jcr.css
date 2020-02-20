@@ -24,10 +24,11 @@ margin-bottom: 0;
 color: white
 
 }
-.jose{
-    background-color: rgb(88, 85, 85);
-    margin-top: 10px;
-    margin-bottom: 10px;
+.qas{
+ margin-bottom: 10px;
+ background-color: rgb(109, 108, 108);
+ color:white;
+ margin-top: 10px;
 }
 .rodr{
     list-style-image: url(https://thepizzahouse.com.do/wp-content/uploads/2019/03/SlideOfertas4.jpg);
@@ -159,9 +160,10 @@ body{
     margin-bottom: 15px;
    text-align: center;
    background-color: rgb(145, 19, 19);
+   color: white;
 }
 .yh{
-background-color: white;
+background-color:white;
 }
 .bn{
     background-color: white;
@@ -214,8 +216,8 @@ background-color: black;
     margin-top: 10px;
 }
 .fff{
-    background-color:red;
-    color: white;
+    background-color:rgb(161, 156, 156);
+    color: black;
     text-align: center;
 }
 .www{
@@ -235,7 +237,7 @@ background-color: black;
     padding: 10px;
     margin: 10px;
     margin-top: 30px;
-    background-color:red;
+    background-color: rgb(160, 157, 157);
 }
 .xjz{
     background-color: black;
@@ -250,8 +252,25 @@ background-color: black;
     background-color: black;
     text-align: center;
 }
-.hgf{
+.texta{
     background-image: url(./instagram/images/domino.jpg);
-    background-size: cover;
-    background: 100px;
+    background: black;
+    background-image: 100%;
+    background-image: cover;
+    background-repeat:no-repeat;
+    
+    
+}
+.mmm{
+    color: white;
+    text-align: center;
+    
+}
+.qas{
+    background-color: rgb(27, 27, 27);
+}
+.jzz{
+    background-color: black;
+    background-image: 100%;
+    background-image: cover;
 }
