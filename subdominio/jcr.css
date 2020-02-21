@@ -1,4 +1,4 @@
-
+/*cuerpo*/
 body{
 margin-top: 0;
 padding: 0;
@@ -30,6 +30,7 @@ color: white
  color:white;
  margin-top: 10px;
 }
+/*imagen de fondo*/
 .rodr{
     list-style-image: url(https://thepizzahouse.com.do/wp-content/uploads/2019/03/SlideOfertas4.jpg);
 }
@@ -50,8 +51,7 @@ color: white
     background-color: black;
 }
 .mana{
-    background: 100;
-    background: cover;
+   
 }
  h1.texto{
     text-align: center;
@@ -60,8 +60,8 @@ color: white
     background: url(https://youtu.be/vnUuXFwf48c);
 }
 .regi{
-    background-image: url(../instagram/images/fondo.jpg));
-    background-size: cover; 
+ background-image: url(../instagram/images/fondo.jpg));
+ background-size: cover; 
 }
 .texto{
     color: white;
@@ -89,16 +89,12 @@ body{
 }
 
 
-.regi4{
-    background-color: rgb(104, 101, 101);
-    color: white;
-}
 .conta{
     text-align: center;
     background-color: black;
     color: white;
     padding-left: 0;
-    padding-bottom: 2;
+   
 
 }
 .pedro{
@@ -241,7 +237,7 @@ background-color: black;
 }
 .xjz{
     background-color: black;
-    color: white;
+    color:white;
     text-align: center;
 }
 .raror{
@@ -255,9 +251,8 @@ background-color: black;
 .texta{
     background-image: url(./instagram/images/domino.jpg);
     background: black;
-    background-image: 100%;
-    background-image: cover;
-    background-repeat:no-repeat;
+  
+   
     
     
 }
@@ -265,12 +260,31 @@ background-color: black;
     color: white;
     text-align: center;
     
+    
 }
 .qas{
     background-color: rgb(27, 27, 27);
 }
 .jzz{
     background-color: black;
-    background-image: 100%;
-    background-image: cover;
+
+}
+.ccc{
+    text-align: center;
+    color: black;
+}
+.ffff{
+    background-color:white;
+}
+.yyy{
+    background-color: rgb(97, 93, 93);
+    color: white;
+}
+.ppp{
+    background-color:rgb(97, 92, 92);
+    color: white;
+}
+.ñññ{
+    background-color: rgb(97, 93, 93);
+    color: white;
 }
